@@ -1,0 +1,7 @@
+sofiq,25.12.2019,PB4555St,Ivanov3,34,23,4.5
+sofiq,25.12.2019,PB4559St,Ivanov,34,22,4.5
+sofiq1,25.09.2019,PB4855St,Ivanova,34,22,4.5
+sofiq,25.12.2019,PB4555St,Ivanov,34,22,4.5
+sofiq1,25.12.2019,PB4545St,Ivanov2,34,22,4.5
+sofiq,25.11.2019,PB4775St,Ivanov,34,22,4.5
+sofiq,25.10.2019,PB4655St,Ivanov,34,22,4.5

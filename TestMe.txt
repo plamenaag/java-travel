@@ -1,0 +1,3 @@
+Plovdiv-sofiq1      25.09.2019          PB4855St            Ivanova             34                  22                  4.5 lv.             99.0 lv.            
+Plovdiv-sofiq       25.11.2019          PB4775St            Ivanov              34                  22                  4.5 lv.             99.0 lv.            
+Plovdiv-sofiq       25.10.2019          PB4655St            Ivanov              34                  22                  4.5 lv.             99.0 lv.            
